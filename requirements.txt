@@ -11,3 +11,4 @@ umap-learn
 babyplots
 tensorflow
 pyclustering
+optuna
