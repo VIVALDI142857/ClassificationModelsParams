@@ -1,4 +1,4 @@
-numpy==2.0.2
+numpy==1.24.2
 pandas
 matplotlib
 seaborn 
@@ -14,3 +14,4 @@ pyclustering
 optuna
 catboost
 mlflow
+category_encoders
